@@ -1,1 +1,1 @@
-# Seasonal-Trends-Payment-Preference-Analysis
+# Seasonal-Trends-and-Payment-Preference-Analysis
