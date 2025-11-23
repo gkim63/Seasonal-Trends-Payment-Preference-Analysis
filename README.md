@@ -1,1 +1,1 @@
-# Seasonal-Trends-and-Payment-Preference-Analysis
+# Customer_Shopping_Insights_Dashboard
